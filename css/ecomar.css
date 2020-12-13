@@ -1,0 +1,309 @@
+.header-area{
+	background-color:#4d3871;
+}
+.ops11 img{
+	width:40px;
+	height:40px;
+}
+.head11{
+	width:50%;
+	height:200px;
+	
+}
+.head1{
+	width:50%;
+	height:200px;
+
+}
+.oi:hover{
+	color:white
+
+}
+.headerimage img{
+	width:379px;
+	height:250px;
+	margin-left:44px;
+	margin-right:2px;
+	margin-top:75px;
+	border-radius:6px;
+}
+.headerimage img:hover{
+	transform:rotate(360deg);
+	width:379px;
+	transition:1s;
+
+}
+.para{
+	font-size:26px;
+	color:black;
+	padding-top:30px;
+	margin-left:60px;
+	color:pink;
+
+}
+
+.para b{
+	font-size:30px;
+	color:red;
+
+}
+.haider{
+	font-size:30px;
+	color:#72ec3f;
+	margin-top:90px;
+	margin-left:70px;
+	font-family:italic;
+	width:220px;
+	height:70px;
+	padding-left:7px;
+}
+.haider:hover{
+	transform:rotate(360deg);
+	transition:1s;
+	font-size:27px;
+	width:200px;
+	height:70px;
+}
+.my-div{
+	width:98%;
+	height:400px;
+	background-color:black;
+	animation-name:haider;
+	animation-iteration-count:100;
+	animation-duration:4s
+}
+
+@keyframes haider{
+	0%{background-color:#050e3e}
+	20%{background-color:#000a12}
+	40%{ background-color:#0954a5 }
+	80%{background-color:#052f5d}
+	100%{background-color:#050e3e}
+}
+
+.parsent-html{
+	position:absolute;
+	left:-99999px;
+	width:90%;
+	height:10px;
+	background-color:blue;
+	position:relative;
+	margin-top:2px;
+	padding-top:2px;
+	border-radius:20px;
+}
+ li ul{
+	width:88%;
+	height:7px;
+	background-color:blue;
+	border-radius:20px;
+	list-style-type:none;
+	position:absolute;
+	left:-99999px;
+	margin-left:6%;
+}
+ li ul li{
+	padding-left:100%;
+	margin-bottom:10px;
+	font-size:13px;
+	padding-bottom:8px;
+	color:pink;
+
+}
+ul a:hover{
+	text-decoration:none;
+}
+
+ul a{ 
+	color:red;
+	font-size:18px;
+	font-family:arial;
+	position:relative;
+	margin-top:30px;
+
+}
+ul li:hover ul{
+	left:0px;
+	transition:0.5s;
+
+	
+
+}
+ul li{
+	margin-top:10px;
+}
+.ki{width:92%;
+	height:7px;
+	background-color:pink;
+	border-radius:20px;
+	list-style-type:none;
+	position:absolute;
+	left:-99999px;
+	margin-left:6%
+
+}
+.ki1{
+	width:60%;
+	height:7px;
+	background-color:pink;
+	border-radius:20px;
+	list-style-type:none;
+	position:absolute;
+	left:-99999px;
+	margin-left:6%
+
+}
+.ki11{
+	width:70%;
+	height:7px;
+	background-color:pink;
+	border-radius:20px;
+	list-style-type:none;
+	position:absolute;
+	left:-99999px;
+	margin-left:6%
+
+}
+.ki11{
+	font-size:17px;
+	color:pink
+}
+
+.service1{
+	font-size:36px;
+	font-family:arial;
+	color:orange;
+	margin-top:5%;
+	margin-bottom:5%;
+
+
+}
+.htmld{
+	width:100%;
+	font-size:24px;
+	color:white;
+}
+.htmldl{
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+	color:black;
+	text-align:center;
+	border-radius:20px;
+	font-size:18px;
+
+}
+.htmlimg img{
+	width:70%;
+	height:200px;
+	margin-left:10%;
+	margin-right:10%;
+}
+.htmlimg img:hover{
+	width:70%;
+	height:200px;
+	transform:rotate(360deg);
+	transition:1s
+}
+.htmlimg{
+	width:100%;
+	margin-top:5%;
+}.cssimg img{
+	width:70%;
+	height:200px;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:30px;
+}
+.cssimg img:hover{
+	width:70%;
+	height:200px;
+	transform:rotate(360deg);
+	transition:1s;
+}
+.cssimg{
+	width:100%;
+	margin-top:10%;
+
+}
+.cssd{
+	width:100%;
+	font-size:24px;
+	color:white;
+}
+.cssdl{
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+	color:white;
+	text-align:center;
+	margin-top:10%;
+	border-radius:20px;
+	font-size:18px;
+
+}
+.bootstrapimg img{
+	width:50%;
+	height:260px;
+	margin-left:24%;
+	margin-right:10%;
+	margin-top:40px;
+}
+.bootstapimg{
+	margin-top:20px;
+}
+.bot{
+	width:100%;
+	color:red;
+	font-size:26px;
+	margin-top:5%;
+}
+.bootstrapdl{
+	width:50%;
+	margin-left:25%;
+	margin-right:25%;
+	color:yellow;
+	border-radius:20px;
+	font-size:20px;
+}
+.link1{
+	font-size:36px;
+	color:red;
+
+}
+.my{
+	width:100%;
+	background-color:#2D090A;
+	margin-top:1%
+}
+.my-skill{
+	font-size:46px;
+	color:pink;
+margin-left:40px;}
+	.iki {font-size:20px;
+		color:pink;
+		list-style-type:none
+
+	}
+	.iki a{
+		color:pink
+	}
+.footer{
+	width:100%;
+	background-color:black;
+	color:pink;
+}
+.bodyare{
+	background-color:#0f256e;
+}
+.teama{
+	color:white;
+	font-size:30px;
+	margin-top:10px;
+}
+.css1{
+	background-color:#1b1b33;
+}
+.htmlservice{
+	background-color:#3dc4f5;
+}

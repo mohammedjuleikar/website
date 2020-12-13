@@ -1,0 +1,20 @@
+ .mainmenu ul li{
+	list-style-type:none;
+	float:left;
+}
+ .mainmenu ul li a{
+	text-decoration:none;
+	padding-left:20px;
+	color:red;
+}
+ .mainmenu li a:hover{
+	text-decoration:none;
+}
+.slider-area1{
+	width:50%;
+	height:250px;
+	margin-left:25%
+}
+.details{
+	background-color:#d6c4f5
+}

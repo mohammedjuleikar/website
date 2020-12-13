@@ -1,0 +1,15 @@
+.my-div{
+	width:300px;
+	height:200px;
+	background-color:orange;
+	animation-name:haider;
+	animation-iteration-count:10;
+	animation-duration:4s
+}
+@keyframes haider{
+	0%{background-color:red}\
+	20%{background-color:blue}
+	40%{ background-color:orange }
+	80%{background-color:green}
+	100%{background-color:red}
+}
